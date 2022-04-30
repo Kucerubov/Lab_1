@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="logo">Trust in ZSU!</string>
+    <string name="logo_task_2">Word Scramble</string>
+    <string name="scrambled">Scrambled Word</string>
+
+    <string-array name="array_word">
+        <item>home</item>
+        <item>back</item>
+        <item>accept</item>
+        <item>android</item>
+        <item>build</item>
+    </string-array>
+</resources>
